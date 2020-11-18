@@ -60,6 +60,6 @@ python3 main.py
 
 ## Contributors
 
-@github/Piterino
+[Piterino](https://github.com/Piterino)
 
-@github/Macardor
+[Macardor](https://github.com/Macardor)

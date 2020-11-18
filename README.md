@@ -30,7 +30,7 @@ A roguelike written in Python 3, the last assignment of Codecool's first module.
   <img src="https://github.com/Piterino/firstroguelike/blob/main/pictures/screenshot_armorpickup.png?raw=true" alt="Armor pickup"/>
 </p>
 
-###The game is separated into two modes:
+### The game is separated into two modes:
 
 The story takes us through a prepared set of maps and loot. It traditionally begins in a cutscene and ends in a boss fight.
 

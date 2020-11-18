@@ -12,7 +12,7 @@
 
 [Contributors](#contributors)
 
-[Google Docs Presentation)[https://docs.google.com/presentation/d/1AMlrvNyPLgIQOAfJwGRZD8c8g8McborbmvjjCu3x6Lg/edit?usp=sharing]
+[Google Docs Presentation](https://docs.google.com/presentation/d/1AMlrvNyPLgIQOAfJwGRZD8c8g8McborbmvjjCu3x6Lg/edit?usp=sharing)
 
 ## Summary
 
@@ -60,6 +60,6 @@ python3 main.py
 
 ## Contributors
 
-@Piterino
+@github/Piterino
 
-@Macardor
+@github/Macardor
